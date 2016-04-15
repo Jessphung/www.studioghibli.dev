@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-04-08 20:18:34
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.6
+WORDPRESS:	4.4.2
+PHP INFO:	5.5.24 | SAPI: apache2handler
+SERVER:		Apache/2.4.12 (Unix) OpenSSL/1.0.1m PHP/5.5.24 mod_perl/2.0.8-dev Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (512M default) 
+MEMORY STACK: 31.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20160408_studioghilbi_570811f0acdb04223160408201752_database.sql 
+SQL FILE SIZE: 534.48KB (547305) 
+SQL FILE TIME: 2016-04-08 20:18:34 
+SQL RUNTIME: 0.47 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/jessicaphung/Documents/Websites/www.studioghilbi.dev 
+ARCHIVE FILE: 20160408_studioghilbi_570811f0acdb04223160408201752_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	75.78MB 
+STATS:	Dirs 775 | Files 7,261 
+SQL ADDED: 20160408_studioghilbi_570811f0acdb04223160408201752_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8036
+    [filename] => /Users/jessicaphung/Documents/Websites/www.studioghilbi.dev/wp-snapshots/tmp/20160408_studioghilbi_570811f0acdb04223160408201752_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 45.94MB 
+ARCHIVE RUNTIME: 58.44 sec. 
+MEMORY STACK: 35.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/jessicaphung/Documents/Websites/www.studioghilbi.dev/wp-snapshots/tmp/20160408_studioghilbi_570811f0acdb04223160408201752_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 534.48KB 
+Installer File: 319.3KB 
+Archive File: 45.94MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 63.87 sec.
+PEAK PHP MEMORY USED: 37.25MB
+DONE PROCESSING => 20160408_studioghilbi 2016-04-08 20:19:38
+ 

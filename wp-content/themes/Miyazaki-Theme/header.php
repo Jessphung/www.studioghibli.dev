@@ -134,8 +134,7 @@ wp_head(); ?>
 	
 	
 	<!-- / END TOP BAR -->
-	
-	<link href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
+<link href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
 <link href="http://fonts.googleapis.com/css?family=Amaranth:400,700" rel="stylesheet" type="text/css">
 <link href="http://wmh.github.io/jquery-scrollbox/demo.css" rel="stylesheet">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

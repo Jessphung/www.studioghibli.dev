@@ -12,3 +12,17 @@
  /* == Add your own styles below this line ==
 --------------------------------------------*/
 
+/******Slider Section on the Home Page *******/
+section#slider{ background-color: #420914;}
+#demo5.scroll-img{ border: none;
+                   position: relative;
+                   width: 780px;
+                   margin-top: -20px;}
+#slider h2.dark-text{ color: #fff;}
+button#demo5-backward {
+    margin-top: -360px;
+    margin-left: -500px;
+}
+
+
+/****End of Slider Section on the Home Page *******/

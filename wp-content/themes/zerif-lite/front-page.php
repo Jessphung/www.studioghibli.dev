@@ -194,14 +194,6 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 	zerif_after_our_focus_trigger();
 
 	endif;
-	
-	/* My Slider SECTION */
-	
-	zerif_before_our_focus_trigger();
-
-		get_template_part( 'sections/my_slider' );
-		
-	zerif_after_our_focus_trigger();
 
 	/* RIBBON WITH BOTTOM BUTTON */
 

@@ -15,10 +15,12 @@ get_header(); ?>
 		 	'order'=>'ASC',
 		 	'showposts'=>'300'
 		 	); 
-			$service = new WP_Query($args);	
+			$movies = new WP_Query($args);	
 
 			?>
 			<!--End of display custom post types-->
+			
+			
 
 
 <div id="content" class="site-content">

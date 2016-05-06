@@ -1,7 +1,5 @@
 <?php
-/**
- * * Template Name: Movies 
- */
+
 get_header(); ?>
 
 <div class="clear"></div>
@@ -135,6 +133,7 @@ get_header(); ?>
 			</header><!-- .page-header -->
 
 			<?php while ( have_posts() ) : the_post();
+		
 
 					/* Include the Post-Format-specific template for the content.
 

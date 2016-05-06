@@ -19,7 +19,7 @@ get_header(); ?>
 					 * use this in a child theme, then include a file called called content-___.php
 					 * (where ___ is the post format) and that will be used instead.
 					 */
-					get_template_part( 'content', get_post_format() );
+					//get_template_part( 'content', get_post_format() );
 					//Movie Description
 					echo types_render_field("description", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
 					

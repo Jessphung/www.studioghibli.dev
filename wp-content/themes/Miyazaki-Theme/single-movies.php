@@ -20,13 +20,13 @@ get_header(); ?>
 					 * (where ___ is the post format) and that will be used instead.
 					 */
 					get_template_part( 'content', get_post_format() );
-					//custom URL
+					//Movie Description
 					echo types_render_field("description", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
 					
-					//date time
-					echo types_render_field("eggs", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
+					//Movie Ratings
+					echo types_render_field("ratings", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
 						
-					//image
+					//Movie Image
                    echo types_render_field("image", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
  
 

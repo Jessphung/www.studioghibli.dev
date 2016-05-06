@@ -10,7 +10,7 @@ get_header(); ?>
 
 <!--Display custom post types as page begin-->
 			<?php $args = array(
-		 	'post_type'=> ‘credits’,
+		 	'post_type'=> 'credits',
 		 	'orderby'=> 'title',
 		 	'order'=>'ASC',
 		 	'showposts'=>'300'

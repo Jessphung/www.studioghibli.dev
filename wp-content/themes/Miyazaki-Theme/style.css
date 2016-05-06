@@ -13,7 +13,9 @@
 --------------------------------------------*/
 
 /******Slider Section on the Home Page *******/
-section#slider{ background-color: #420914;}
+section#slider{ background-color: #420914;
+                background-image: url("http://www.studioghibli.dev/wp-content/uploads/2016/05/scroll_background.jpg"); 
+                }
 #demo5.scroll-img{ border: none;
                    position: relative;
                    width: 780px;
@@ -26,3 +28,11 @@ button#demo5-backward {
 
 
 /****End of Slider Section on the Home Page *******/
+
+
+/** Features*****/ 
+section#focus.focus { background-image: url("http://www.studioghibli.dev/wp-content/uploads/2016/05/scroll_background.jpg");
+                 }
+
+
+/** end of Features*******/ 

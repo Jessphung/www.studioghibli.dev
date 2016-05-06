@@ -10,9 +10,9 @@ get_header(); ?>
 
 <!--Display custom post types as page begin-->
 			<?php $args = array(
-		 	'post_type'=> ‘movies’,
-		 	'orderby'=> 'title',
-		 	'order'=>'ASC',
+		 	'post_type'=> 'movies',
+		 	'orderby' => 'title',
+		 	'order'=> 'ASC',
 		 	'showposts'=>'300'
 		 	); 
 			$movies = new WP_Query($args);	

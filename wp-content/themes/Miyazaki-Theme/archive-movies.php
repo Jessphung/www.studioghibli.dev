@@ -19,6 +19,9 @@ get_header(); ?>
 
 			?>
 			<!--End of display custom post types-->
+					
+
+		
 			
 			
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Requirements Checklist\n"
 "POT-Creation-Date: 2015-04-20 00:14-0800\n"
-"PO-Revision-Date: 2016-05-05 20:42-0700\n"
+"PO-Revision-Date: 2016-05-05 20:36-0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,8 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
-"Language: en_US\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
@@ -22,49 +23,49 @@ msgstr ""
 #: admin/class-post-type-requirements-checklist-admin.php:120
 #: admin/class-post-type-requirements-checklist-admin.php:203
 msgid "Requirements Checklist"
-msgstr "Phungnomenal Checklist "
+msgstr "要求"
 
 #: admin/class-post-type-requirements-checklist-admin.php:146
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: admin/class-post-type-requirements-checklist-admin.php:214
 #: admin/class-post-type-requirements-checklist-admin.php:760
 #: admin/includes/settings.php:111
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 #: admin/class-post-type-requirements-checklist-admin.php:256
 #: admin/includes/settings.php:123
 msgid "WYSIWYG Editor"
-msgstr ""
+msgstr "你看到的就是你得到的编辑器"
 
 #: admin/class-post-type-requirements-checklist-admin.php:294
 #: admin/includes/settings.php:135
 msgid "Featured Image"
-msgstr ""
+msgstr "特色图片"
 
 #: admin/class-post-type-requirements-checklist-admin.php:336
 #: admin/includes/settings.php:147
 msgid "Excerpt"
-msgstr ""
+msgstr "摘抄"
 
 #: admin/class-post-type-requirements-checklist-admin.php:392
 #: admin/includes/settings.php:183
 msgid "Categories"
-msgstr ""
+msgstr "类别"
 
 #: admin/class-post-type-requirements-checklist-admin.php:398
 #: admin/class-post-type-requirements-checklist-admin.php:455
 #: admin/class-post-type-requirements-checklist-admin.php:544
 #: admin/class-post-type-requirements-checklist-admin.php:601
 msgid "exactly "
-msgstr ""
+msgstr "究竟"
 
 #: admin/class-post-type-requirements-checklist-admin.php:449
 #: admin/includes/settings.php:213
 msgid "Tags"
-msgstr ""
+msgstr "标签"
 
 #: admin/class-post-type-requirements-checklist-admin.php:670
 #: admin/includes/settings.php:403
@@ -73,12 +74,12 @@ msgstr ""
 
 #: admin/class-post-type-requirements-checklist-admin.php:682
 msgid "Keyword"
-msgstr ""
+msgstr "关键词"
 
 #: admin/class-post-type-requirements-checklist-admin.php:685
 #: admin/class-post-type-requirements-checklist-admin.php:763
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: admin/class-post-type-requirements-checklist-admin.php:744
 msgid "All In One SEO Pack"
@@ -102,11 +103,11 @@ msgstr ""
 
 #: admin/includes/settings.php:265
 msgid "category"
-msgstr ""
+msgstr "类别"
 
 #: admin/includes/settings.php:295
 msgid "tag"
-msgstr ""
+msgstr "标签"
 
 #: admin/includes/settings.php:390
 msgid "3rd Party Plugin Support"
@@ -121,7 +122,7 @@ msgstr ""
 #: admin/includes/settings.php:840 admin/includes/settings.php:876
 #: admin/includes/settings.php:921 admin/includes/settings.php:957
 msgid "require"
-msgstr ""
+msgstr "要求"
 
 #: admin/includes/settings.php:504
 msgid ""
@@ -139,7 +140,7 @@ msgstr ""
 #: admin/includes/settings.php:853 admin/includes/settings.php:891
 #: admin/includes/settings.php:934 admin/includes/settings.php:972
 msgid "minimum required to publish"
-msgstr ""
+msgstr "的最小值"
 
 #: admin/includes/settings.php:541 admin/includes/settings.php:586
 #: admin/includes/settings.php:624 admin/includes/settings.php:668
@@ -148,7 +149,7 @@ msgstr ""
 #: admin/includes/settings.php:867 admin/includes/settings.php:911
 #: admin/includes/settings.php:948 admin/includes/settings.php:992
 msgid "maximum allowed"
-msgstr ""
+msgstr "最大值"
 
 #: admin/includes/settings.php:997
 msgid ""
@@ -162,23 +163,23 @@ msgstr ""
 
 #: admin/includes/settings.php:1008
 msgid "require Focus Keyword"
-msgstr ""
+msgstr "需要重点关键字"
 
 #: admin/includes/settings.php:1017
 msgid "require Meta Description"
-msgstr ""
+msgstr "需要说明的元"
 
 #: admin/includes/settings.php:1027
 msgid "require Title"
-msgstr ""
+msgstr "要求标题"
 
 #: admin/includes/settings.php:1036
 msgid "require Description"
-msgstr ""
+msgstr "需要说明"
 
 #: admin/includes/settings.php:1045
 msgid "require Keywords"
-msgstr ""
+msgstr "需要关键词"
 
 #: public/class-post-type-requirements-checklist.php:267
 #, php-format
